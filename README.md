@@ -18,14 +18,9 @@ https://www.jetbrains.com/pycharm/download/?section=windows
 Once installed you can run the program with the following command
 
 ```
-python cne_demo.py
+play_song()
 ```
-
-Add any additional ways to run the program below
-
-```
-python cne_demo.py test.txt
-```
+This will run the code and print out all the lyrics to the song.
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you for checking out my code. I hope you enjoy it and can also enjoy the song lyrics. I couldn't have done it without the wonderful instructors in the CNE program at Renton Technical College!
