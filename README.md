@@ -9,8 +9,10 @@ These instructions will run this code on your local machine for printing all the
 ### Prerequisites
 
 Assignment1.py requires PyCharm Community Edition to run. You can download PyCharm Community Edition from the link below.
-https://www.jetbrains.com/pycharm/download/?section=windows
 
+```
+https://www.jetbrains.com/pycharm/download/?section=windows
+```
 
 ## Running
 Once installed you can run the program with the following command
