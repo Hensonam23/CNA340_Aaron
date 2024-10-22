@@ -4,11 +4,12 @@ This project will show you how to run a python file that outputs one of my favor
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will run this code on your local machine for printing all the lines from the Assignment1.py script.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libraries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Assignment1.py requires PyCharm Community Edition to run. You can download PyCharm Community Edition from the link below.
+https://www.jetbrains.com/pycharm/download/?section=windows
 
 
 ## Running
